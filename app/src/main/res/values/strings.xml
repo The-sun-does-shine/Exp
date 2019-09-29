@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exp</string>
+    <string name="button_text1">确定</string>
+    <string name="edit_text">请输入内容</string>
+    <string name="text_view">请输入内容</string>
+    <string name="button_text2">取消</string>
+</resources>
